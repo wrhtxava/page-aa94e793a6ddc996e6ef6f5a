@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.dayongrc.cn/sitemap.xml
